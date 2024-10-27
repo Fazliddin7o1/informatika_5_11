@@ -1,0 +1,94 @@
+body{
+    display:flex;
+    background-image: url('https://www.amd.com/content/dam/amd/en/images/abstract/648568-developer-code.jpg');
+    background-size: cover;
+}
+
+div{
+    position:relative;
+}
+
+button{
+   
+    margin:10px;
+    margin-top:130px;
+    width:250px;
+    height:305px;
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScx2BPPUIVGwRE2ZZBzpOO5D6zdveSaYefg&s');
+}
+
+
+.inf6{
+    margin-left:100px;
+    margin:10px;
+    margin-top:130px;
+    width:200px;
+    height:255px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9btMRNsHdCAmvrfGaToAuuSa2G5CO4RKGOQ&s');
+}
+
+
+.inf7{
+    margin:10px;
+    margin-top:130px;
+    width:225px;
+    height:300px;
+    background-image: url('https://infotest.uz/wp-content/uploads/2023/12/7-infor-237x300.jpg');
+}
+
+
+.inf8{
+    margin:10px;    
+    margin-top:130px;
+    width:175px;
+    height:255px;
+    background-image: url('https://obuchalka.org/img/knigi/informatika/1430/143008.jpg');
+}
+
+
+.inf9{
+    margin:10px;    
+    margin-top:130px;
+    width:190px;
+    height:270px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROX-UbZ8FTRXUFgRjwgEFBwmFPfLm39aM5aQ&s');
+}
+
+
+
+.h1{
+margin-bottom:30px;
+    margin-left:220px;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    font-size:25px;
+    text-align: center;
+    padding:20px;
+}
+
+
+
+.inf10{
+    margin:10px;    
+    margin-top:130px;
+    width:240px;
+    height:270px;
+    background-image: url('https://info-master.uz/wp-content/uploads/2024/09/10-11-sinf-Informatika-kitobi-Cambridge_1-242x300.jpg');
+}
+
+
+img{
+    margin-top:470px;
+    width:470px;
+    height:350px;
+    position: fixed;
+}
+
+
+h1{
+    display: flex;
+    color:rgb(7, 255, 181);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
